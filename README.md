@@ -7,6 +7,13 @@ Hotz One will be built in FPGA and will
 
 ![alt text](https://github.com/varaujokilby/Hotz-One/blob/main/docs/Kilby_Platform.png?raw=true)
 
+The Platform is expected to use many existing libraries
+Comma.ai - 
+RISC-V GNU Tool Chain https://github.com/riscv-collab/riscv-gnu-toolchain
+Iliad - Processor Architecture for Self-Driving car automotive system
+Capablanca - Risc-V Superscalar Architecture
+Nepa - Neuro Processor Architecture
+Verilator - Verilog Simultion Tool
 
 # Hotz One SoC
 
