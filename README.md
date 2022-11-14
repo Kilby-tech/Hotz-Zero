@@ -29,10 +29,10 @@ The Hotz processor will be the open source part that will be in silicon.
 The goal is that Iliad processor will evolve in architecture performance, addition of features, integration with 
 
 
-## [Nepa](https://github.com/varaujokilby/Nepa) - Neural Processing Unit
+## [Nepa - Neural Processing Architecture](https://github.com/varaujokilby/Nepa)
 
-[Nepa](https://github.com/varaujokilby/Nepa) is an architecture that is planned to work as a coprocessor 
-A co-processor is necessary for having the neural network processing as fast as high performance algorithms.
+[Nepa](https://github.com/varaujokilby/Nepa) is an architecture that is planned to work as a co-processor and boost machine learning algorithms speed.
+Even though [Capablanca Open Project](https://github.com/varaujokilby/Capablanca) is high perfornace and contains Vector Processing Unit that is intended to accelerate computational process similar to the ones used in machine learning a co-processor is necessary to be competitive with state of art machine learning real time execution.
 
 
 # Documentation
