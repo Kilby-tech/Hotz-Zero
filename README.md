@@ -22,16 +22,18 @@ The Hotz processor will be the open source part that will be in silicon.
 ![alt text](https://github.com/varaujokilby/Hotz-One/blob/main/docs/Hotz_One_SoC.png?raw=true)
 
 
-## Iliad Processor
+## [Iliad Processor](https://github.com/varaujokilby/Iliad)
 
-Iliad is a RISC-V processor designed for high performance automative area and is inspeided on existing open source.
+[Iliad](https://github.com/varaujokilby/Iliad) is a RISC-V processor designed for high performance automative area, it is based on [Capablanca Open Project](https://github.com/varaujokilby/Capablanca) which is a high performance RISC-V project, adding structure for cars and automonous driving compliance.
 
 The goal is that Iliad processor will evolve in architecture performance, addition of features, integration with 
 
 
-## Neural Processing Unit
+## [Nepa](https://github.com/varaujokilby/Nepa) - Neural Processing Unit
 
+[Nepa](https://github.com/varaujokilby/Nepa) is an architecture that is planned to work as a coprocessor 
 A co-processor is necessary for having the neural network processing as fast as high performance algorithms.
+
 
 # Documentation
 
