@@ -1,5 +1,7 @@
 Hotz-Zero
-Open SoC hardware for self-driving cars
+
+An Open hardware for self-driving cars capable of providing automonous driving features compatible with existing commercial products.
+Hotz Zero is the first stage of a multi-stage platform where each stage will have a clear functional delivery.
 
 # Hotz Zero platform
 
