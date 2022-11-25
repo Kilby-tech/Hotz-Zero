@@ -1,7 +1,7 @@
-Hotz-One
+Hotz-Zero
 Open SoC hardware for self-driving cars
 
-# Hotz One platform
+# Hotz Zero platform
 
 Hotz One will be built in FPGA and will 
 
@@ -15,9 +15,9 @@ Capablanca - Risc-V Superscalar Architecture
 Nepa - Neuro Processor Architecture
 Verilator - Verilog Simultion Tool
 
-# Hotz One SoC
+# Hotz Zero SoC
 
-The Hotz processor will be the open source part that will be in silicon.
+The Hotz project will be the open source part that will be in silicon.
 
 ![alt text](https://github.com/varaujokilby/Hotz-One/blob/main/docs/Hotz_One_SoC.png?raw=true)
 
