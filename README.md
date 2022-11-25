@@ -3,7 +3,7 @@ Open SoC hardware for self-driving cars
 
 # Hotz Zero platform
 
-Hotz One will be built in FPGA and will 
+Hotz Zero will be built in FPGA and will 
 
 ![alt text](https://github.com/varaujokilby/Hotz-One/blob/main/docs/Kilby_Platform.png?raw=true)
 
